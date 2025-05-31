@@ -182,3 +182,26 @@ textarea {
     opacity: 1;
     transition: all 0.5s;
 }
+
+.botoes button {
+    color: black;
+    background: #EAEEED;
+    height: 30px;
+    width: 70px;
+    border: 1px solid #C9D9DB;
+    border-radius: 6px;
+    margin-right: 5px;
+    opacity: 1;
+    transition: all 0.5s;
+}
+
+.botoes input:hover {
+    opacity: 0.8;
+    transition: all 0.5s;
+
+}
+.botoes button:hover {
+    opacity: 0.8;
+    transition: all 0.5s;
+
+}
